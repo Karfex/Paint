@@ -10,7 +10,6 @@ import java.awt.event.ItemListener;
 import java.awt.event.MouseListener;
 import java.util.Observable;
 import java.util.Observer;
-
 import javax.swing.JButton;
 import javax.swing.JComboBox;
 import javax.swing.JFrame;
